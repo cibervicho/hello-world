@@ -2,11 +2,11 @@ package main
 
 import (
 	"fmt"
-	"github.com/cibervicho/stringutil"
+	//"github.com/cibervicho/stringutil"
 )
 
 func main() {
-    fmt.Printf("Hello, world\n")
-    fmt.Printf(stringutil.Reverse("!oG ,olleH"))
-    fmt.Printf("\n")
+	fmt.Printf("Hello, world\n")
+	//fmt.Printf(stringutil.Reverse("!oG ,olleH"))
+	fmt.Printf("\n")
 }
